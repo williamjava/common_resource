@@ -1,1 +1,2 @@
-# common_resource
+# 我的通用资源
+1.省市区地区信息sql脚本
